@@ -1,0 +1,15 @@
+{
+    "name": "localhost/ipdcheck",
+    "autoload": {
+        "psr-4": {
+            "Localhost\\ipdcheck\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Altaf",
+            "email": "ah5509092@gmail.com"
+        }
+    ],
+    "require": {}
+}
